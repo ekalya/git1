@@ -1,2 +1,4 @@
 Text 1
 Text 2
+Text 3 -- added in dev branch
+Text 4 -- added in dev branch again
